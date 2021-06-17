@@ -18,7 +18,7 @@ Hello, i'm alexandre vale, CS student with an unending hunger for learning more 
 
 
 
-<h2>GitHub Stats and main Repos</h2>
+<h2>My GitHub Stats</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-vale&show_icons=true&theme=dark" alt="nonsene" />
 </p>
