@@ -1,7 +1,7 @@
 <h1>
    Welcome to Alexandre vale's Github!
 </h1>
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Alexandre-vale&show_icons=true&theme=dark" width="500"/>
+<img align="right" alt="GIF" src="" width="500"/>
 <h3>About</h3>
 
 - 💻 &nbsp; Intern at Kumulus
@@ -19,7 +19,7 @@ Hello, i'm alexandre vale, CS student with an unending hunger for learning more 
 
 
 
-<h2>GitHub Stats</h2>
+<h2>GitHub Stats and main Repos</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-vale&show_icons=true&theme=dark" alt="nonsene" />
 </p>
@@ -49,3 +49,7 @@ Hello, i'm alexandre vale, CS student with an unending hunger for learning more 
  <hr>
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alexandre-vale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexandre-vale-65a7b0176/)  
+
+<hr>
+<p>Have a sit, fellow adventurer</p>
+<img src='https://thumbs.gfycat.com/EntireEnchantingGavial-size_restricted.gif' alt='campfire' height='40' align='center'>
