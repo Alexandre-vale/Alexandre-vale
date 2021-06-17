@@ -1,7 +1,6 @@
 <h1>
    Welcome to Alexandre vale's Github!
 </h1>
-<img align="right" alt="GIF" src="" width="500"/>
 <h3>About</h3>
 
 - 💻 &nbsp; Intern at Kumulus
@@ -9,7 +8,7 @@
 
 <p align="left">
   <em>
-Hello, i'm alexandre vale, CS student with an unending hunger for learning more about development, if there is a semi-colon involved, you bet i'll be into it!                   
+Hello, i'm alexandre vale, CS student with an unending hunger for learning more about development, if there is a semi-colon involved, you can bet i'll be into it!                   
   </em> 
   <br>
 </p>
@@ -52,4 +51,4 @@ Hello, i'm alexandre vale, CS student with an unending hunger for learning more 
 
 <hr>
 <p>Have a sit, fellow adventurer</p>
-<img src='https://thumbs.gfycat.com/EntireEnchantingGavial-size_restricted.gif' alt='campfire' height='40' align='center'>
+<img src='https://thumbs.gfycat.com/EntireEnchantingGavial-size_restricted.gif' alt='campfire' height='450' align='center'>
