@@ -3,7 +3,7 @@
 </h1>
 <h3>About</h3>
 
-- 💻 &nbsp; Intern at Kumulus
+- 💻 &nbsp; Junior Dev at Kumulus
 - 🎓 &nbsp; Studying Computer Science.
 
 <p align="left">
